@@ -1,1 +1,3 @@
 # GrammarChecker
+
+This project involves developing a web-based grammar and spell checker application using Python, Flask, and the LanguageTool library. The application features a user-friendly interface where users can input text to be analyzed. On submission, the Flask server processes the text using LanguageTool, which checks for both grammatical errors and spelling mistakes. The results are then displayed back to the user with detailed feedback, including specific error locations and suggested corrections. This setup ensures efficient handling of multiple requests and provides a scalable and extendable solution for text analysis and correction.
